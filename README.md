@@ -2,6 +2,8 @@
 
 A premium, high-performance chess application built with **Flutter**, designed for a smooth and sophisticated user experience. This project follows clean architecture principles and features modern state management and navigation.
 
+![App Screenshot](assets/images/screenshot.png)
+
 ---
 
 ## ✨ Features
