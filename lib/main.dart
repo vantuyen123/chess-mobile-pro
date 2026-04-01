@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (context) => GameProvider()),
       ],
       child: MaterialApp.router(
-        title: 'Chess Mobile Clean Arch',
+        title: 'Chess Free',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           brightness: Brightness.light,
@@ -37,4 +37,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-

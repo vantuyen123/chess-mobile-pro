@@ -1,4 +1,4 @@
-package com.example.chessgame.chess_game
+package com.tuyenvan.chess_pro
 
 import io.flutter.embedding.android.FlutterActivity
 
